@@ -13,7 +13,7 @@ module.exports = {
         "light-gray": "hsl(212, 45%, 89%)",
       },
       fontFamily: {
-        outfit: [`var(--font-outfit)`, "sans-serif"],
+        outfit: ["outfit", "sans-serif"],
       },
     },
   },
